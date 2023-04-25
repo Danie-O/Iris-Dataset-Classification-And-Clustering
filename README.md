@@ -13,4 +13,4 @@ Analysis of the IRIS dataset, and modelling using popular classification and clu
 - DBSCAN clustering 
 - Gaussian Mixture Model
 
-**Evaluation for each algorithm is also carried out using metrics such as; accuracy, precision, recall F1-score, and the silhouette score.**
+**Evaluation for each algorithm is also carried out using metrics such as; accuracy, precision, recall, F1-score, and the silhouette score.**
