@@ -1,6 +1,7 @@
 # Iris-Dataset-Classification-And-Clustering
 
-Analysis of the IRIS dataset, and modelling using popular classification and clustering algorithms such as:
+Analysis and modelling of the IRIS dataset using popular classification and clustering algorithms such as:
+
 (Classification)
 - Logistic regression
 - KNN classifier
